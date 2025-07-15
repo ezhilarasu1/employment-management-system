@@ -1,0 +1,2 @@
+# employment-management-system
+A PHP-based Employment Management System using XAMPP and MySQL.
